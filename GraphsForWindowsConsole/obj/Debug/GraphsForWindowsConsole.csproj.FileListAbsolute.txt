@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\bin\Debug\GraphsForWindowsConsole.exe.config
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\bin\Debug\GraphsForWindowsConsole.exe
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\bin\Debug\GraphsForWindowsConsole.pdb
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\obj\Debug\GraphsForWindowsConsole.csprojAssemblyReference.cache
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\obj\Debug\GraphsForWindowsConsole.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\obj\Debug\GraphsForWindowsConsole.exe
+C:\Users\super\source\repos\GraphsForWindowsConsole\GraphsForWindowsConsole\obj\Debug\GraphsForWindowsConsole.pdb
